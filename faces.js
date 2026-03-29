@@ -33,7 +33,7 @@ window.FACES_DATA = [
     photo: "https://trailers.filmtoolz.ru/images/photos_people/hq/1076748.jpg",
     education: "ВТУ им. М.С. Щепкина, Мастерская В.А. Сафронова",
     hairColor: "Русый",
-    hairLength: "Средняя длина",
+    hairLength: "Короткие",
     eyeColor: "Серо-голубой",
     height: 180,
     bodyType: "Атлетичное",
