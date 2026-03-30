@@ -37,10 +37,6 @@ const modalGallery = document.getElementById("modalGallery");
 const modalName = document.getElementById("modalName");
 const modalStats = document.getElementById("modalStats");
 const modalSkills = document.getElementById("modalSkills");
-const modalLanguages = document.getElementById("modalLanguages");
-const modalFilmography = document.getElementById("modalFilmography");
-const modalTheatre = document.getElementById("modalTheatre");
-const modalVideo = document.getElementById("modalVideo");
 const modalFilmtoolz = document.getElementById("modalFilmtoolz");
 
 const lightbox = document.getElementById("lightbox");
@@ -465,27 +461,19 @@ function openModal(face) {
   modalMainPhoto.alt = face.name || "";
 
   modalStats.innerHTML = `
-    ${statItem("Возраст", face.age)}
+    ${statItem("Город", face.city)}
     ${statItem("Образование", face.education)}
+    ${statItem("Возраст", face.age)}
+    ${statItem("Рост", face.height ? `${face.height} см` : "—")}
     ${statItem("Цвет волос", face.hairColor)}
     ${statItem("Длина волос", face.hairLength)}
     ${statItem("Цвет глаз", face.eyeColor)}
-    ${statItem("Рост", face.height ? `${face.height} см` : "—")}
     ${statItem("Телосложение", face.bodyType)}
-    ${statItem("Город", face.city)}
-    ${statItem("Пол", face.gender)}
+
+
   `;
 
-  renderTags(modalSkills, face.skills, "sims__tag");
-  renderTags(modalLanguages, face.languages, "sims__tag");
 
-  modalFilmography.textContent = Array.isArray(face.filmography) && face.filmography.length
-    ? face.filmography.join("; ")
-    : (face.filmography || "—");
-
-  modalTheatre.textContent = Array.isArray(face.theatre) && face.theatre.length
-    ? face.theatre.join("; ")
-    : (face.theatre || "—");
 
   // Collect all images for lightbox
   const allImages = [];
