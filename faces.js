@@ -11,10 +11,6 @@ window.FACES_DATA = [
     eyeColor: "Серо-голубой",
     height: 180,
     bodyType: "Стройное",
-    skills: ["Джаз-модерн", "Балет", "Вальс", "Брейк-данс", "Гопак", "Джаз", "Футбол", "Хоккей", "Теннис настольный", "Бильярд", "Бадминтон", "Бокс", "Акробатика", "Шашки", "Шахматы", "Хоккей с мячом (бенди)", "Мини-футбол", "Плавание", "Барабанная установка", "Бас-гитара", "Аккордеон", "Бас-балалайка", "Бубен", "Балалайка", "Барабан", "Акустическая гитара", "Варган", "Мюзикл", "Народный", "Рок", "Микс-вокал", "Баритон", "Рэп", "Битбокс", "Панк-рок", "Оперный", "Общетеатральное пение"],
-    languages: ["Русский", "Английский", "Французский"],
-    filmography: ["Тайна за углом", "Аллигатор", "Колбаса", "Золото скифов"],
-    theatre: ["Московский драматический театр им. М.Н. Ермоловой (Театр-центр им. Ермоловой)", "Вне…театр"],
     gallery: [
       "https://trailers.filmtoolz.ru/images/photos_people/hq/1010929.jpg",
       "https://trailers.filmtoolz.ru/images/photos_people/hq/1049761.jpg",
@@ -37,10 +33,6 @@ window.FACES_DATA = [
     eyeColor: "Серо-голубой",
     height: 180,
     bodyType: "Атлетичное",
-    skills: ["Русские танцы", "Общетеатральные танцы", "Крыжачок", "Народные танцы", "Полонез", "Конный спорт", "Волейбол", "Футбол", "Баскетбол", "Карате", "Варган", "Блок-флейта", "Бас-балалайка", "Укулеле", "Гитара", "Академический вокал"],
-    languages: ["Русский", "Английский", "Испанский"],
-    filmography: [],
-    theatre: ["Тамбовский государственный драматический театр"],
     gallery: [
       "https://trailers.filmtoolz.ru/images/photos_people/hq/1076748.jpg",
       "https://trailers.filmtoolz.ru/images/photos_people/hq/1076757.jpg",
@@ -50,5 +42,28 @@ window.FACES_DATA = [
     ],
     video: "https://prefs.filmtoolz.ru/files/u87833/video/2764033/2764033_hd720p.mp4",
     filmtoolz: "https://casting.filmtoolz.ru/4108095/"
+  },
+  {
+    name: "Павел Федоров",
+    gender: "мужской",
+    age: 37,
+    city: "Санкт-Петербург",
+    photo: "https://trailers.filmtoolz.ru/images/photos_people/hq/1082614.jpg",
+    education: "СПбГИК",
+    hairColor: "Русый",
+    hairLength: "Короткие",
+    eyeColor: "Серо-зеленый",
+    height: 178,
+    bodyType: "Атлетичное",
+    gallery: [
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1082614.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1082619.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1082618.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1082617.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1082616.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1082615.jpg"
+    ],
+    video: "https://prefs.filmtoolz.ru/files/u19691/video/2793061/2793061_hd720p.mp4",
+    filmtoolz: "https://casting.filmtoolz.ru/3163630/"
   }
 ];
