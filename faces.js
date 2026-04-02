@@ -1,3 +1,4 @@
+
 window.FACES_DATA = [
   {
     name: "Олег Луизо",
@@ -64,6 +65,31 @@ window.FACES_DATA = [
     ],
     video: "https://prefs.filmtoolz.ru/files/u64334/video/1816060/1816060.mp4",
     filmtoolz: "https://casting.filmtoolz.ru/3896607/"
+  },
+  {
+    name: "Дарья Савичева",
+    gender: "женский",
+    age: 25,
+    city: "Москва",
+    photo: "https://trailers.filmtoolz.ru/images/photos_people/hq/1023853.jpg",
+    education: "ГИТИС",
+    hairColor: "Русый",
+    hairLength: "Короткие",
+    eyeColor: "Зеленый",
+    height: 167,
+    bodyType: "Атлетичное",
+    gallery: [
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1023853.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1023849.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1023857.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1023856.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1023854.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1023852.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1023851.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1023848.jpg"
+    ],
+    video: "https://prefs.filmtoolz.ru/files/u83185/video/2503887/2503887_hd720p.mp4",
+    filmtoolz: "https://casting.filmtoolz.ru/3164042/"
   },
  {
     name: "Дана Халифе",
@@ -225,6 +251,28 @@ window.FACES_DATA = [
     ],
     video: "https://prefs.filmtoolz.ru/files/u62956/video/2577883/2577883_hd720p.mp4",
     filmtoolz: "https://casting.filmtoolz.ru/3341790/"
+  },
+  {
+    name: "Светлана Щуплова",
+    gender: "женский",
+    age: 23,
+    city: "Москва",
+    photo: "https://trailers.filmtoolz.ru/images/photos_people/hq/1139766.jpg",
+    education: "ОГИИ им. Л. и М. Ростроповичей",
+    hairColor: "Блондин",
+    hairLength: "Длинные",
+    eyeColor: "Серо-голубой",
+    height: 167,
+    bodyType: "Стройное",
+    gallery: [
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1139766.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1139769.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1139768.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1139765.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1139764.jpg"
+    ],
+    video: "https://prefs.filmtoolz.ru/files/u81992/video/3164635/3164635_hd720p.mp4",
+    filmtoolz: "https://casting.filmtoolz.ru/4040064/"
   },
   {
     name: "Богдан Карчевский",
