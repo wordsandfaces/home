@@ -95,7 +95,7 @@ window.FACES_DATA = [
     name: "Екатерина Орлова",
     gender: "женский",
     age: 25,
-    city: "Санкт-Петербург",
+    city: "Москва",
     photo: "https://trailers.filmtoolz.ru/images/photos_people/hq/932943.jpg",
     education: "СПбГИК",
     hairColor: "Блондин",
