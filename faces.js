@@ -92,6 +92,30 @@ window.FACES_DATA = [
     filmtoolz: "https://casting.filmtoolz.ru/3164042/"
   },
  {
+    name: "Екатерина Орлова",
+    gender: "женский",
+    age: 25,
+    city: "Санкт-Петербург",
+    photo: "https://trailers.filmtoolz.ru/images/photos_people/hq/932943.jpg",
+    education: "СПбГИК",
+    hairColor: "Блондин",
+    hairLength: "Средние",
+    eyeColor: "Зеленый",
+    height: 182,
+    bodyType: "Стройное",
+    gallery: [
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/932943.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/989425.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/932952.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/932954.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/932950.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/932945.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/932942.jpg"
+    ],
+    video: "https://prefs.filmtoolz.ru/files/u65767/video/2030072/2030072_hd720p.mp4",
+    filmtoolz: "https://casting.filmtoolz.ru/3484364/"
+  },
+ {
     name: "Дана Халифе",
     gender: "женский",
     age: 22,
@@ -159,6 +183,49 @@ window.FACES_DATA = [
     filmtoolz: "https://casting.filmtoolz.ru/3163630/"
   },
   {
+    name: "Светлана Щуплова",
+    gender: "женский",
+    age: 23,
+    city: "Москва",
+    photo: "https://trailers.filmtoolz.ru/images/photos_people/hq/1139766.jpg",
+    education: "ОГИИ им. Л. и М. Ростроповичей",
+    hairColor: "Блондин",
+    hairLength: "Длинные",
+    eyeColor: "Серо-голубой",
+    height: 167,
+    bodyType: "Стройное",
+    gallery: [
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1139766.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1139769.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1139768.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1139765.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1139764.jpg"
+    ],
+    video: "https://prefs.filmtoolz.ru/files/u81992/video/3164635/3164635_hd720p.mp4",
+    filmtoolz: "https://casting.filmtoolz.ru/4040064/"
+  },
+ {
+    name: "Виктория Клеймёнова",
+    gender: "женский",
+    age: 27,
+    city: "Москва",
+    photo: "https://trailers.filmtoolz.ru/images/photos_people/hq/1050027.jpg",
+    education: "ТИ им. Б. Щукина",
+    hairColor: "Русый",
+    hairLength: "Средние",
+    eyeColor: "Серо-голубой",
+    height: 170,
+    bodyType: "Стройное",
+    gallery: [
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1050027.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1050030.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1050029.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1050028.jpg"
+    ],
+    video: "https://prefs.filmtoolz.ru/files/u33440/video/2632634/2632634_hd720p.mp4",
+    filmtoolz: "https://casting.filmtoolz.ru/3471497/"
+  },
+  {
     name: "Александра Шеина",
     gender: "женский",
     age: 27,
@@ -183,28 +250,6 @@ window.FACES_DATA = [
     ],
     video: "https://prefs.filmtoolz.ru/files/u40154/video/3215123/3215123_hd720p.mp4",
     filmtoolz: "https://casting.filmtoolz.ru/4057285/"
-  },
- {
-    name: "Александра Тамбовская",
-    gender: "женский",
-    age: 32,
-    city: "Москва",
-    photo: "https://trailers.filmtoolz.ru/images/photos_people/hq/1069483.jpg",
-    education: "ТИ им. Б. Щукина",
-    hairColor: "Блондин",
-    hairLength: "Длинные",
-    eyeColor: "Серо-голубой",
-    height: 165,
-    bodyType: "Стройное",
-    gallery: [
-      "https://trailers.filmtoolz.ru/images/photos_people/hq/1069483.jpg",
-      "https://trailers.filmtoolz.ru/images/photos_people/hq/1012478.jpg",
-      "https://trailers.filmtoolz.ru/images/photos_people/hq/1012484.jpg",
-      "https://trailers.filmtoolz.ru/images/photos_people/hq/1012477.jpg",
-      "https://trailers.filmtoolz.ru/images/photos_people/hq/1012476.jpg"
-    ],
-    video: "https://prefs.filmtoolz.ru/files/u81988/video/2436296/2436296_hd720p.mp4",
-    filmtoolz: "https://casting.filmtoolz.ru/4039962/"
   },
   {
     name: "Юрий Могила",
@@ -253,28 +298,29 @@ window.FACES_DATA = [
     video: "https://prefs.filmtoolz.ru/files/u62956/video/2577883/2577883_hd720p.mp4",
     filmtoolz: "https://casting.filmtoolz.ru/3341790/"
   },
-  {
-    name: "Светлана Щуплова",
+{
+    name: "Александра Тамбовская",
     gender: "женский",
-    age: 23,
+    age: 32,
     city: "Москва",
-    photo: "https://trailers.filmtoolz.ru/images/photos_people/hq/1139766.jpg",
-    education: "ОГИИ им. Л. и М. Ростроповичей",
+    photo: "https://trailers.filmtoolz.ru/images/photos_people/hq/1069483.jpg",
+    education: "ТИ им. Б. Щукина",
     hairColor: "Блондин",
     hairLength: "Длинные",
     eyeColor: "Серо-голубой",
-    height: 167,
+    height: 165,
     bodyType: "Стройное",
     gallery: [
-      "https://trailers.filmtoolz.ru/images/photos_people/hq/1139766.jpg",
-      "https://trailers.filmtoolz.ru/images/photos_people/hq/1139769.jpg",
-      "https://trailers.filmtoolz.ru/images/photos_people/hq/1139768.jpg",
-      "https://trailers.filmtoolz.ru/images/photos_people/hq/1139765.jpg",
-      "https://trailers.filmtoolz.ru/images/photos_people/hq/1139764.jpg"
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1069483.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1012478.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1012484.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1012477.jpg",
+      "https://trailers.filmtoolz.ru/images/photos_people/hq/1012476.jpg"
     ],
-    video: "https://prefs.filmtoolz.ru/files/u81992/video/3164635/3164635_hd720p.mp4",
-    filmtoolz: "https://casting.filmtoolz.ru/4040064/"
+    video: "https://prefs.filmtoolz.ru/files/u81988/video/2436296/2436296_hd720p.mp4",
+    filmtoolz: "https://casting.filmtoolz.ru/4039962/"
   },
+
   {
     name: "Богдан Карчевский",
     gender: "мужской",
